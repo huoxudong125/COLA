@@ -1,3 +1,6 @@
+#wiki
+[wiki](https://deepwiki.com/alibaba/COLA/)
+
 # 🥤 COLA v5
 
 [![Fast CI](https://img.shields.io/github/actions/workflow/status/alibaba/cola/ci.yaml?branch=master&logo=github&logoColor=white&label=fast%20ci)](https://github.com/alibaba/cola/actions/workflows/ci.yaml)
