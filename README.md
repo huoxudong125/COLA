@@ -1,5 +1,5 @@
-#wiki
-[wiki](https://deepwiki.com/alibaba/COLA/)
+# wiki 
+[deepwiki](https://deepwiki.com/huoxudong125/COLA/)
 
 # 🥤 COLA v5
 
